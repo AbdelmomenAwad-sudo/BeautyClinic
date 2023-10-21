@@ -30,7 +30,7 @@ function App() {
     <HashRouter>
       <Navbar />
       <Routes>
-        <Route path="/BeautyClinic" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/home" element={<HomePage />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/:username" element={<Profile />} />
