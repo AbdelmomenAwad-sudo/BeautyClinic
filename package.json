@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://abdelmomenawad-sudo.github.io/BeautyClinic",
+  "homepage": "https://Abdelmomenawad-sudo.github.io/BeautyClinic",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
